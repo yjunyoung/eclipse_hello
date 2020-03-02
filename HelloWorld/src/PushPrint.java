@@ -5,5 +5,6 @@ public class PushPrint {
 		System.out.println("World with Miku");
 		System.out.println("world with 42");
 		System.out.println("World with Hatsune");
+		System.out.println("Eclipse Pull Test");
 	}
 }
